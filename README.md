@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/siddhan46929018" target="blank"><img src="https://img.shields.io/twitter/follow/siddhan46929018?logo=twitter&style=for-the-badge" alt="siddhan46929018" /></a> </p> -->
 
-- 🔭 I’m currently working on **Music Player App**
+- 🔭 I’m currently working on **Chating App**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/siddhantpatel01)
 
