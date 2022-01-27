@@ -15,7 +15,7 @@
 
 - 📫 You can reach me by [Gmail](mailto:siddhantpatel445@gmail.com)
 
-- 📄 Know about my experiences [by resume](https://drive.google.com/file/d/1Gv1dEFEiLA_uGQpZq2SeVgrziymDybn3/view?usp=sharing)
+- 📄 Know about my experiences [by resume](https://drive.google.com/file/d/1GEEKvKNr5hGkQpXBTKY85fmG6tkQ5mIo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
