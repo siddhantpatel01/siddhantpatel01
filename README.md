@@ -25,7 +25,7 @@
 <a href="https://www.hackerrank.com/siddhantpatel445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/siddhantpatel445" height="30" width="40" /></a>
 <a href="https://leetcode.com/siddhantpatel445/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddhantpatel445/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/siddhantpatel445/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/siddhantpatel445/practice/" height="30" width="40" /></a>
-<a href="/thanks for visiting my profile, see you next time" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="thanks for visiting my profile, see you next time" height="30" width="40" /></a>
+<a href="/thanks for visiting my profile, see you next time" target="blank"><img align="center" src="https://github.com/siddhantpatel01/siddhantpatel01/blob/main/README.md" alt="thanks for visiting my profile, see you next time" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
