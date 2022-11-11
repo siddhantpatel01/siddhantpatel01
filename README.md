@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [by resume](https://drive.google.com/file/d/1BK9EVaKgSKsGM6ap1FRXlCtk_kq_YDsD/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me all around the web</h3>
 <p align="left">
 <a href="https://twitter.com/siddhan46929018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhan46929018" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sidddhant-patel-9a1aa9195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sidddhant-patel-9a1aa9195/" height="30" width="40" /></a>
