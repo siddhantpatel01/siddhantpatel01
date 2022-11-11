@@ -39,6 +39,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantpatel01&theme=jolly" width="700">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpatel01&theme=jolly )
+
 ```ascii    
           My 2021 GitHub Skyline          
 
