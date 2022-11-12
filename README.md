@@ -55,5 +55,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddhantpatel01&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) 
 
-![https://github.com/siddhantpatel01/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.gif](https://github.com/siddhantpatel01/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/siddhantpatel01/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
 
