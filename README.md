@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantpatel&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantpatel" /> </p>
 
-- 🔭 I’m currently working on **E- Commerce App**
+- 🔭 I’m currently working on **Some different android application**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/siddhantpatel01)
 
