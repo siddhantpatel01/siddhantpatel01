@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/siddhantpatel01)
 
-- 💬 Ask me about **DSA, JAVA,XML**
+- 💬 Ask me about **DSA, JAVA,XML, KOTLIN**
 
 - 📫 You can reach me by [Gmail](mailto:siddhantpatel445@gmail.com)
 
